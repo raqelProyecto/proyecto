@@ -1,0 +1,45 @@
+﻿|----------------------------------------------|
+|Administrador||||||||||||||||||||||||||||||||||
+|username: Leiva96@gmail.com|contraseña:Leiba96|
+''''''''''''''''''''''''''''''''''''''''''''''''
+|Usuario:                                      |
+------------------------------------------------
+|username: may96@gmail.com|contraseña:may96    |
+-----------------------------------------------|
+| URL:(TSE)                                    |
+'''''''''''''''''''''''''''''''''''''''''''''''|
+localhost/voto/login(ruta limpia)              |
+'''''''''''''''''''''''''''''''''''''''''''''''|
+Home(admin):                                   |
+'''''''''''''''''''''''''''''''''''''''''''''''|
+localhost/voto/admin(ruta limpia)              |
+-----------------------------------------------|
+| URL:(votante)                                |
+'''''''''''''''''''''''''''''''''''''''''''''''|
+localhost/voto/home(ruta limpia)               |
+'''''''''''''''''''''''''''''''''''''''''''''''|
+|Script Base de datos: mydb.sql                |
+-----------------------------------------------|
+|nombres:                                      |
+'''''''''''''''''''''''''''''''''''''''''''''''|
+Marina Raquel Leiva Moreno                     |
+Maybelin Estefani Campos Zepeda                |
+-----------------------------------------------|	
+
+
+|'''''''''''''''''''''''''|
+|voto(Carpeta Proyecto)   |
+''''''''''''''''''''''''''|
+pagina inicial            |
+''''''''''''''''''''''''''|
+localhost/voto(Ruta limpia)-|
+Gracias al archivo .htaccess podemos crear  rutas limpias
+tecnica de control frontal index.php&url=@nombre-de-ruta-deseo-ingresar
+
+1-Instalación.
+1.0 Cree una base de datos llamadada mydb e importe el archivo que esta adentro de la carpeta mydb-1.sql
+1.1 Copie y pegue toda la carpeta voto con su contenido esto dependera que servidor local esta utilizando
+1.1.0 En el caso de Xampp copie en C:/xampp/htdocs --pegar aqui
+1.1.1 en mi caso cuando instale dev server lo instale en esta ruta C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb --pegar aqui
+nota:esto dependera de la instalación
+1.2 Entra en cualquier navegador ya sea Mozilla Fire Fox o Chrome de preferencias y escribe la rutas que se presentan al inicio

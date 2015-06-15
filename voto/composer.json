@@ -1,0 +1,15 @@
+{
+	"name": "htdocs/voto",
+	"description": "usan Jpgraph",
+	"type": "project",
+	"authors": [
+        {
+    	"name": "Raquel Leiva",
+    	"email": "raque@gmail.com"
+        }
+	           ],
+
+	"require": {
+		      "jpgraph/jpgraph": "dev-master"
+              }
+}
